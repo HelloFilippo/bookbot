@@ -39,10 +39,5 @@ def count_char(text):
         else:
             chars[lowered] = 1
     return chars
-        
-
-
-            
-    #fare un loop che loopa tutto il testo con un counter
-    #ficcare i counter nel dizionario
+ 
 main()
